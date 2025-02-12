@@ -1,0 +1,31 @@
+/* Logo in the upper left corner */
+body {
+    position: relative;
+}
+
+body img {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 100px; /* Adjust the size as needed */
+}
+
+/* Red background for the body */
+body {
+    background-color: red;
+}
+
+/* Burnt orange background for paragraphs with beveled edges, white text, and transparency */
+p {
+    background-color: rgba(204, 85, 0, 0.8); /* Burnt orange color with transparency */
+    color: white;
+    padding: 15px; /* Increased padding for space away from text */
+    border: 2px solid rgba(139, 69, 19, 1); /* Thin opaque outline */
+    border-radius: 10px; /* Beveled edges */
+    box-shadow: 2px 2px 5px rgba(139, 69, 19, 1); /* Shadow for beveled effect */
+}
+
+.top-matter-right {
+  padding-left: 10vw;
+}
+
