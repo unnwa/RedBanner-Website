@@ -12,9 +12,12 @@ body img {
 
 /* Red background for the body */
 body {
-    background-color: red;
+    background-color: black;
 }
 
+h1, h2 {
+  color: white; 
+}
 /* Burnt orange background for paragraphs with beveled edges, white text, and transparency */
 p {
     background-color: rgba(204, 85, 0, 0.8); /* Burnt orange color with transparency */
