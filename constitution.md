@@ -354,8 +354,7 @@ In the event of the dissolution of the Standing Committee prior to the convocati
 
 During the interim period following the dissolution of the Standing Committee by the Central Committee before the convocation of the Party Congress meeting, existing Standing Committee members retain effective leadership for the facilitation of day-to-day responsibilities until the election of new members.
 
-**Article X**
-Membership
+### Article X: Membership
 
 **Section 1**
 Any citizen of the United States and Canada, permitted that they live within uncontested territory, and are 18 years of age is eligible to apply for membership. Any citizen of the United States and Canada between ages 16 to 17 will be considered a volunteer excluded from participation in worker coops or labor efforts at this time. Upon seeking legal counsel and navigating labor laws for minors this is subject to change. 
