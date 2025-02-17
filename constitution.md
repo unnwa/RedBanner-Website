@@ -10,6 +10,10 @@ In pursuit of this goal, we are committed to further elevating class consciousne
 
 Furthermore, we are dedicated to improving conditions in our local communities by addressing immediate needs and fostering solidarity among each other.
 
+## Table of Contents
+- [Constitution](https://github.com/unnwa/RedBanner-Website/blob/gh-pages/constitution.md)
+- [Article I: One Party In Solidarity](#Article-I:-One-Party-In-Solidarity)
+
 ## Constitution
 
 The Red Banner Party is an organized group of socialists with the goal of dismantling capitalism and establishing a socialist framework. The ultimate goal is a classless society where human well-being is prioritized over financial gain.
