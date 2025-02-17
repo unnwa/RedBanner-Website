@@ -354,6 +354,37 @@ In the event of the dissolution of the Standing Committee prior to the convocati
 
 During the interim period following the dissolution of the Standing Committee by the Central Committee before the convocation of the Party Congress meeting, existing Standing Committee members retain effective leadership for the facilitation of day-to-day responsibilities until the election of new members.
 
+**Article X**
+Membership
+
+**Section 1**
+Any citizen of the United States and Canada, permitted that they live within uncontested territory, and are 18 years of age is eligible to apply for membership. Any citizen of the United States and Canada between ages 16 to 17 will be considered a volunteer excluded from participation in worker coops or labor efforts at this time. Upon seeking legal counsel and navigating labor laws for minors this is subject to change. 
+
+Any person may be considered an associate of the party. 
+
+**Section 2**
+A candidate for membership must apply through such means as another established member, THE COMMUNE discord server, or the Party website. Any information shared during application will be private and shared only with the Standing Committee and Politburo for purposes of conducting interviews, verifying the applicant’s identity, and intent in joining if necessary. 
+
+**Section 2A**
+Candidate for membership will be interviewed and approved directly by a member(s) of the Party’s sitting Standing Committee, a deputized Politburo representative, or any other relevant representative and put into contact with the appropriate cell.
+
+**Section 2B**
+After approval, a candidate for membership will be assigned to the cell closest to their place of residence. This application will be subject to approval by the cell’s existing membership. A candidate must be endorsed by at least one member of the chapter in order to qualify for membership to the Party. This endorsement will be considered the candidate’s sponsor, and take responsibility for the candidate’s character and education.
+
+**Section 2B will be put into effect once it is realistic for The Party.**
+
+**Section 2C**
+Malicious infiltration is to be avoided at all costs. It is the job of the Party's Standing Committee or Politburo, or a spontaneous security committee, or any number of members, to investigate and prevent infiltration.
+
+**Section 3** 
+After approval by the cell, a Party member is considered probationary for a period of no less than three months and not to exceed one calendar year, during which time they must demonstrate acceptance of the Party’s constitution, program, and active dedication to the class struggle (through attending chapter meetings, participating in Party work, assisting with chapter enterprises, etc.), adherence to democratic centralism, and a working knowledge of the basics of Marxism–Leninism.
+
+**Section 4**
+Once a Party member is approved or has been a Party member for at least 6 months to 1 calendar year they will be subject to the standard review, disciplinary processes, and assigned the full rights and duties of Party membership.
+
+**Section 4A**
+Probationary members will not be considered full members in this regard. Each probationary member’s participation is subject to the discretion of their cell leader.
+
 **Section 5**
 
 The Standing Committee, Politburo, and State cells will participate in pre-congressional discussions to develop reports for the Party Congress meeting.
