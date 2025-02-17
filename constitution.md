@@ -12,7 +12,7 @@ Furthermore, we are dedicated to improving conditions in our local communities b
 
 ## Table of Contents
 - [Constitution](https://github.com/unnwa/RedBanner-Website/blob/gh-pages/constitution.md)
-- [Article I: One Party In Solidarity](#Article-I:-One-Party-In-Solidarity)
+- [Article I: One Party In Solidarity](#article-i-one-party-in-solidarity)
 
 ## Constitution
 
