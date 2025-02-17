@@ -383,35 +383,43 @@ Cells will establish small businesses or cooperatives owned by the Party cell wi
 All worker Cooperatives founded by Cells should pay a tax of 2% to 5% of their profits to the Party.
 
 **Section 4**
+
 A cell may apply for investment funding or seed capital for cell enterprises. This Party fund will be under the direct supervision of the National Treasury section of the Standing Committee, and awarded on a case-by-case basis, as decided by the Standing Committee. The Standing Committee reserves the right to require expertise in any field being investigated and to bring in a consultant with expertise in the field in order to provide sound investment advice.
 
 **Section 5**
+
 Henceforth, In order to maintain transparency, the Party treasury will issue a report on finances at every regularly-scheduled Party Congress meeting.
 
-**Article XII**
-Disciplinary Procedures
+### Article XII: Disciplinary Procedures
 
 **Section 1**
+
 All disciplinary matters will be handled collectively by members of the relevant council, assembly or cell, ensuring transparency and fairness. 
 
 **Section 2**
+
 Charges against individual members or committees of the Party may be made by any member of the corresponding cell or Committee. A charge will be brought through the appropriate channels of communication used by the official Party Chapters and Committees. All charges will be handled as promptly as possible.
 
 **Section 3**
+
 All persons concerned in a disciplinary case have the right to appear, bring material witnesses, and testify on the matter at hand. Fundamentally, the majority of those holding power will determine the outcome of the case. 
 
 **Section 4**
+
 The cell or committee having jurisdiction, or Standing Committee, has the right to remove members from the cell. The Standing Committee retains the right to implement any disciplinary action, including expulsion. Expulsion from the Party can also occur naturally, through disassociation or inactivity.
 
 **Section 5**
+
 Upon Party leadership's decision of Party expulsion, the expelled former member will be immediately removed from all official Party communications and lose credentials, digital or otherwise, of Party membership.
 
 ### Article XIII: Financial Accountability
 
 **Section 1**
+
 Financial reports of the Standing Committee, Politburo, and cells will be presented to members in writing periodically, in an accessible manner, assuring collective oversight.
 
 ### Article XV: Liabilities
 
 **Section 1**
+
 The Red Banner Party is not responsible for any political document, policy, book, article, or any other expression of political opinion, whether in person, in print, or online, except those which are authorized by the leadership of the Red Banner Party.
