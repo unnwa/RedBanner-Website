@@ -18,6 +18,14 @@ Furthermore, we are dedicated to improving conditions in our local communities b
 - [Article IV: Official Party Outlook](#article-iv-official-party-outlook)
 - [Article V: Central Party Bodies](#article-v-central-party-bodies)
 - [Article VI: Executive Accountability](#article-vi-executive-accountability)
+- [Article VII: Cells](#article-vii-cells)
+- [Article VIII: Democracy](#article-viii-democracy)
+- [Article IX: Party Congress](#article-ix-party-congress)
+- [Article X: Membership](#article-x-membership)
+- [Article XI: Advancement of Community Work and Enterprise](#article-xi-advancement-of-community-work-and-enterprise)
+- [Article XII: Disciplinary Procedures](#article-xii-disciplinary-procedures)
+- [Article XIII: Financial Accountability](#article-xiii-financial-accountability)
+- [Article XV: Liabilities](#article-xv-liabilities)
 
 ## Constitution
 
