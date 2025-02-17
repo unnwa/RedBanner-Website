@@ -13,6 +13,11 @@ Furthermore, we are dedicated to improving conditions in our local communities b
 ## Table of Contents
 - [Constitution](https://github.com/unnwa/RedBanner-Website/blob/gh-pages/constitution.md)
 - [Article I: One Party In Solidarity](#article-i-one-party-in-solidarity)
+- [Article II: Name](#article-ii-name)
+- [Article III: Logo and Colors](#article-iii-logo-and-colors)
+- [Article IV: Official Party Outlook](#article-iv-official-party-outlook)
+- [Article V: Central Party Bodies](#article-v-central-party-bodies)
+- [Article VI: Executive Accountability](#article-vi-executive-accountability)
 
 ## Constitution
 
